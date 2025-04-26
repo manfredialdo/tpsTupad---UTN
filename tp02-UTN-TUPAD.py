@@ -1,10 +1,23 @@
 '''
+# tecnicatura universitaria en programacion UTN
+# MATEMATICA I
+#Práctico 2: Trabajo integrador matematica1-programacion1
+#Alumnos
+
 GRUPO 2
+ALUMNOS: Bruno Pighin, Jazmin Herrera, Aldo Manfredi, Alan Jofre, Florencia Mauna
+
+## EJERCICIO_ 
 4. Generador de Tabla de Verdad:
+
 Cree un programa que genere la tabla de verdad para una expresión booleana
 sencilla, como "A AND B".
 Extensión: Permitan al usuario elegir entre distintas operaciones lógicas.
+
+
+REFERENCIA https://youtu.be/8c23ZnFM8d4?si=0oheD2r6Ix2b5ZIK
 '''
+
 booleanos = [True, False]
 
 def tabla_or():
